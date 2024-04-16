@@ -148,6 +148,12 @@ public class UserManagementRepo : IUserManagementRepo
                 var token = GenerateJwtToken(user);
                 return token;
             }
+            else if (user.Role == "Admin")
+            {
+                // Generate JWT token and return for accepted doctors
+                var token = GenerateJwtToken(user);
+                return token;
+            }
             /*else if (user.Role == "Doctor" )
             {
                 // Send notification to doctor that they are not authorized to login yet
@@ -326,9 +332,9 @@ public class UserManagementRepo : IUserManagementRepo
     {
         var claims = new List<Claim>
         {
-            new Claim(ClaimTypes.Role, $" {user.Role}"),
-            new Claim(ClaimTypes.NameIdentifier, $" {user.UserId}"),
-            new Claim(ClaimTypes.NameIdentifier, $" {user.Email}")
+            new Claim(ClaimTypes.Role, $"{user.Role}"),
+            new Claim(ClaimTypes.NameIdentifier, $"{user.UserId}"),
+            new Claim(ClaimTypes.NameIdentifier, $"{user.Email}")
             
         };
 

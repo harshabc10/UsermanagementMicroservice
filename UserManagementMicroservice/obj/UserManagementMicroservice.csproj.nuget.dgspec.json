@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\UserManagementMicroservice.csproj": {}
+    "D:\\C#(LYTX)\\UserManagementMicroservices\\UserManagementMicroservice\\UserManagementMicroservice.csproj": {}
   },
   "projects": {
-    "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\UserManagementMicroservice.csproj": {
+    "D:\\C#(LYTX)\\UserManagementMicroservices\\UserManagementMicroservice\\UserManagementMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\UserManagementMicroservice.csproj",
+        "projectUniqueName": "D:\\C#(LYTX)\\UserManagementMicroservices\\UserManagementMicroservice\\UserManagementMicroservice.csproj",
         "projectName": "UserManagementMicroservice",
-        "projectPath": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\UserManagementMicroservice.csproj",
+        "projectPath": "D:\\C#(LYTX)\\UserManagementMicroservices\\UserManagementMicroservice\\UserManagementMicroservice.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\obj\\",
+        "outputPath": "D:\\C#(LYTX)\\UserManagementMicroservices\\UserManagementMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",

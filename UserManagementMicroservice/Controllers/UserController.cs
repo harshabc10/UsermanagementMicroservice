@@ -16,47 +16,68 @@ public class UserController : ControllerBase
         _userManagementServices = userManagementServices;
         
     }
+    private async Task<IActionResult> RegisterUser<T>(T model, string role, string successMessage, string failureMessage)
+    {
+        // Validation logic for the model here
+
+        UserEntity user = null;
+
+        if (model is AdminRegistrationModel adminModel)
+        {
+            user = new UserEntity
+            {
+                FirstName = adminModel.FirstName,
+                LastName = adminModel.LastName,
+                Email = adminModel.Email,
+                Password = adminModel.Password,
+                Role = role // Assigning the role
+            };
+        }
+        else if (model is PatientRegistrationModel patientModel)
+        {
+            user = new UserEntity
+            {
+                FirstName = patientModel.FirstName,
+                LastName = patientModel.LastName,
+                Email = patientModel.Email,
+                Password = patientModel.Password,
+                Role = role // Assigning the role
+            };
+        }
+        // Add similar logic for other registration models
+
+        if (user == null)
+        {
+            return BadRequest("Invalid registration model type.");
+        }
+
+        var result = await _userManagementServices.RegisterUser(user);
+        if (result)
+            return Ok(successMessage);
+        return BadRequest(failureMessage);
+    }
+
+
+
+    [HttpPost("register/admin")]
+    public async Task<IActionResult> RegisterAdmin(AdminRegistrationModel model)
+    {
+        // Specify UserEntity as the type argument for RegisterUser
+        return await RegisterUser(model, "Admin", "Admin registered successfully", "Admin registration failed");
+    }
 
     [HttpPost("register/patient")]
     public async Task<IActionResult> RegisterPatient(PatientRegistrationModel model)
     {
-        // You can add validation logic for the model here
-
-        // Create a UserEntity for the patient
-        var user = new UserEntity
-        {
-            FirstName = model.FirstName,
-            LastName = model.LastName,
-            Email = model.Email,
-            Password = model.Password,
-            Role = "Patient" // Assigning the role directly for patients
-        };
-
-        var result = await _userManagementServices.RegisterUser(user);
-        if (result)
-            return Ok("Patient registered successfully");
-        return BadRequest("Patient registration failed");
+        // Specify UserEntity as the type argument for RegisterUser
+        return await RegisterUser(model, "Patient", "Patient registered successfully", "Patient registration failed");
     }
 
     [HttpPost("register/doctor")]
     public async Task<IActionResult> RegisterDoctor(DoctorRegistrationModel model)
     {
-        // You can add validation logic for the model here
-
-        // Create a UserEntity for the doctor
-        var user = new UserEntity
-        {
-            FirstName = model.FirstName,
-            LastName = model.LastName,
-            Email = model.Email,
-            Password = model.Password,
-            Role = "Doctor" // Assigning the role directly for doctors
-        };
-
-        var result = await _userManagementServices.RegisterUser(user);
-        if (result)
-            return Ok("Doctor registered successfully");
-        return BadRequest("Doctor registration failed");
+        // Specify UserEntity as the type argument for RegisterUser
+        return await RegisterUser(model, "Doctor", "Doctor registered successfully", "Doctor registration failed");
     }
 
     [HttpPost("login")]
