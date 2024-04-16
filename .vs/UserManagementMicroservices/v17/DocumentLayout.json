@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#(LYTX)\\HotelManagementMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\repo\\usermanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\repo\\usermanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\dto\\doctorregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\dto\\doctorregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\dto\\patientregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\dto\\patientregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\dto\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\dto\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\dto\\forgotpasswordrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\dto\\forgotpasswordrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\repo\\iusermanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\repo\\iusermanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\dto\\resetpasswordbyotprequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\dto\\resetpasswordbyotprequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|d:\\c#(lytx)\\hotelmanagementmicroservices\\usermanagementmicroservice\\dto\\resetpasswordrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16DB1BC-B182-4071-9ADC-E427FF88D023}|UserManagementMicroservice\\UserManagementMicroservice.csproj|solutionrelative:usermanagementmicroservice\\dto\\resetpasswordrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:23:36.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManagementRepo.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Repo\\UserManagementRepo.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\Repo\\UserManagementRepo.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Repo\\UserManagementRepo.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\Repo\\UserManagementRepo.cs",
+              "ViewState": "AQIAACgBAAAAAAAAAIAwwEgBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:21:54.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\Program.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Program.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv1EAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:54:19.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\Context\\DapperContext.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Context\\DapperContext.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\Context\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:21:06.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\appsettings.Development.json",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\appsettings.Development.json",
+              "RelativeToolTip": "UserManagementMicroservice\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T07:25:56.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorRegistrationModel.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\DoctorRegistrationModel.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\DTO\\DoctorRegistrationModel.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\DoctorRegistrationModel.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\DTO\\DoctorRegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:45:38.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserManagementRepo.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Repo\\IUserManagementRepo.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\Repo\\IUserManagementRepo.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Repo\\IUserManagementRepo.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\Repo\\IUserManagementRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:20:29.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:19:01.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientRegistrationModel.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\PatientRegistrationModel.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\DTO\\PatientRegistrationModel.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\PatientRegistrationModel.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\DTO\\PatientRegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:44:32.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPasswordRequestModel.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\ForgotPasswordRequestModel.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\DTO\\ForgotPasswordRequestModel.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\ForgotPasswordRequestModel.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\DTO\\ForgotPasswordRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:48:50.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\DTO\\LoginRequestModel.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\LoginRequestModel.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\DTO\\LoginRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:47:41.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResetPasswordByOTPRequestModel.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\ResetPasswordByOTPRequestModel.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\DTO\\ResetPasswordByOTPRequestModel.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\ResetPasswordByOTPRequestModel.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\DTO\\ResetPasswordByOTPRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:54:30.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPasswordRequestModel.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\ResetPasswordRequestModel.cs",
+              "RelativeDocumentMoniker": "UserManagementMicroservice\\DTO\\ResetPasswordRequestModel.cs",
+              "ToolTip": "D:\\C#(LYTX)\\HotelManagementMicroservices\\UserManagementMicroservice\\DTO\\ResetPasswordRequestModel.cs",
+              "RelativeToolTip": "UserManagementMicroservice\\DTO\\ResetPasswordRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:49:20.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
